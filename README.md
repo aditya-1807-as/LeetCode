@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/aditya-1807-as/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/aditya-1807-as/LeetCode/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-1807-as/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/aditya-1807-as/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/aditya-1807-as/LeetCode/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-1807-as/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
@@ -19,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-1807-as/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/aditya-1807-as/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
