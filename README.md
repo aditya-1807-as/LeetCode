@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aditya-1807-as/LeetCode/tree/master/0278-first-bad-version) |
+## Array
+|  |
+| ------- |
+| [0057-insert-interval](https://github.com/aditya-1807-as/LeetCode/tree/master/0057-insert-interval) |
 <!---LeetCode Topics End-->
