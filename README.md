@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-1807-as/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/aditya-1807-as/LeetCode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/aditya-1807-as/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-1807-as/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aditya-1807-as/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-1807-as/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/aditya-1807-as/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/aditya-1807-as/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aditya-1807-as/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
