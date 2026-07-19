@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/aditya-1807-as/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/aditya-1807-as/LeetCode/tree/master/0409-longest-palindrome) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aditya-1807-as/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-1807-as/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aditya-1807-as/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-1807-as/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aditya-1807-as/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/aditya-1807-as/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-1807-as/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
