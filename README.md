@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aditya-1807-as/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/aditya-1807-as/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-1807-as/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aditya-1807-as/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/aditya-1807-as/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya-1807-as/LeetCode/tree/master/0054-spiral-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/aditya-1807-as/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/aditya-1807-as/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
