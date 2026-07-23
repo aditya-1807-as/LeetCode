@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya-1807-as/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya-1807-as/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Linked List
 |  |
 | ------- |
@@ -135,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/aditya-1807-as/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Math
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
