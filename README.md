@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/aditya-1807-as/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-1807-as/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aditya-1807-as/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/aditya-1807-as/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aditya-1807-as/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-1807-as/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-1807-as/LeetCode/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aditya-1807-as/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/aditya-1807-as/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
