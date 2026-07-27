@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/aditya-1807-as/LeetCode/tree/master/0409-longest-palindrome) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aditya-1807-as/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-1807-as/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/aditya-1807-as/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## String
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aditya-1807-as/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/aditya-1807-as/LeetCode/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-1807-as/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/aditya-1807-as/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Greedy
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya-1807-as/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya-1807-as/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/aditya-1807-as/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Linked List
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/aditya-1807-as/LeetCode/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/aditya-1807-as/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 <!---LeetCode Topics End-->
