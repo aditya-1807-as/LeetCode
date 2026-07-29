@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aditya-1807-as/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/aditya-1807-as/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aditya-1807-as/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-1807-as/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-1807-as/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya-1807-as/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aditya-1807-as/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-1807-as/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-1807-as/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-1807-as/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
 |  |
