@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-1807-as/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/aditya-1807-as/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/aditya-1807-as/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/aditya-1807-as/LeetCode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aditya-1807-as/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-1807-as/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-1807-as/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aditya-1807-as/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/aditya-1807-as/LeetCode/tree/master/0043-multiply-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-1807-as/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/aditya-1807-as/LeetCode/tree/master/0877-stone-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0518-coin-change-ii) |
+| [0877-stone-game](https://github.com/aditya-1807-as/LeetCode/tree/master/0877-stone-game) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/aditya-1807-as/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Counting Sort
 |  |
@@ -213,4 +216,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aditya-1807-as/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aditya-1807-as/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aditya-1807-as/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aditya-1807-as/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
