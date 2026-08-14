@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aditya-1807-as/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/aditya-1807-as/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aditya-1807-as/LeetCode/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/aditya-1807-as/LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aditya-1807-as/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/aditya-1807-as/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-1807-as/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aditya-1807-as/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-1807-as/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aditya-1807-as/LeetCode/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/aditya-1807-as/LeetCode/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/aditya-1807-as/LeetCode/tree/master/0112-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/aditya-1807-as/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0994-rotting-oranges](https://github.com/aditya-1807-as/LeetCode/tree/master/0994-rotting-oranges) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/aditya-1807-as/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aditya-1807-as/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/aditya-1807-as/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
