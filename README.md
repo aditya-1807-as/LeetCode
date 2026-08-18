@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/aditya-1807-as/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/aditya-1807-as/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/aditya-1807-as/LeetCode/tree/master/0409-longest-palindrome) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya-1807-as/LeetCode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-1807-as/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-1807-as/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-1807-as/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya-1807-as/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aditya-1807-as/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/aditya-1807-as/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aditya-1807-as/LeetCode/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-1807-as/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aditya-1807-as/LeetCode/tree/master/0877-stone-game) |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/aditya-1807-as/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
