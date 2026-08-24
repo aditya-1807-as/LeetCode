@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya-1807-as/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/aditya-1807-as/LeetCode/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-1807-as/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aditya-1807-as/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/aditya-1807-as/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/aditya-1807-as/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aditya-1807-as/LeetCode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/aditya-1807-as/LeetCode/tree/master/0057-insert-interval) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0045-jump-game-ii) |
 | [0518-coin-change-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-1807-as/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/aditya-1807-as/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
