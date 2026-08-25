@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/aditya-1807-as/LeetCode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-1807-as/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/aditya-1807-as/LeetCode/tree/master/0383-ransom-note) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/aditya-1807-as/LeetCode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/aditya-1807-as/LeetCode/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-1807-as/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/aditya-1807-as/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/aditya-1807-as/LeetCode/tree/master/0409-longest-palindrome) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aditya-1807-as/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-1807-as/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/aditya-1807-as/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0268-missing-number) |
 | [0518-coin-change-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0518-coin-change-ii) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0045-jump-game-ii) |
+| [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
 | [0518-coin-change-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-1807-as/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/aditya-1807-as/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -306,4 +310,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-1807-as/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
