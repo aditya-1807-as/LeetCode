@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-1807-as/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/aditya-1807-as/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/aditya-1807-as/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0268-missing-number) |
 | [0518-coin-change-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0518-coin-change-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0045-jump-game-ii) |
 | [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/aditya-1807-as/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0518-coin-change-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/aditya-1807-as/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-1807-as/LeetCode/tree/master/0678-valid-parenthesis-string) |
