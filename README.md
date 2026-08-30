@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aditya-1807-as/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/aditya-1807-as/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/aditya-1807-as/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/aditya-1807-as/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aditya-1807-as/LeetCode/tree/master/0054-spiral-matrix) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya-1807-as/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-1807-as/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aditya-1807-as/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/aditya-1807-as/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-1807-as/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aditya-1807-as/LeetCode/tree/master/0189-rotate-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aditya-1807-as/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/aditya-1807-as/LeetCode/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-1807-as/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/aditya-1807-as/LeetCode/tree/master/0739-daily-temperatures) |
@@ -251,10 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aditya-1807-as/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/aditya-1807-as/LeetCode/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aditya-1807-as/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0045-jump-game-ii) |
 | [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aditya-1807-as/LeetCode/tree/master/0152-maximum-product-subarray) |
