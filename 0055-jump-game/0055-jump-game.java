@@ -22,3 +22,27 @@ class Solution {
         return true;
     }
 }
+
+// class Solution {
+//     public boolean canJump(int[] nums) {
+//         return solve(nums, 0);
+//     }
+
+//     private boolean solve(int[] nums, int index) {
+
+//         // If we reached the last index
+//         if (index >= nums.length - 1) {
+//             return true;
+//         }
+
+//         // Try every possible jump
+//         for (int jump = 1; jump <= nums[index]; jump++) {
+
+//             if (solve(nums, index + jump)) {
+//                 return true;
+//             }
+//         }
+
+//         return false;
+//     }
+// }
