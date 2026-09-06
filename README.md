@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aditya-1807-as/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/aditya-1807-as/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aditya-1807-as/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/aditya-1807-as/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/aditya-1807-as/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aditya-1807-as/LeetCode/tree/master/0268-missing-number) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditya-1807-as/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aditya-1807-as/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aditya-1807-as/LeetCode/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aditya-1807-as/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0518-coin-change-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0518-coin-change-ii) |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aditya-1807-as/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
