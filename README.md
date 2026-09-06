@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/aditya-1807-as/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aditya-1807-as/LeetCode/tree/master/0877-stone-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
