@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-1807-as/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/aditya-1807-as/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-1807-as/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1143-longest-common-subsequence](https://github.com/aditya-1807-as/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-1807-as/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/aditya-1807-as/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aditya-1807-as/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/aditya-1807-as/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/aditya-1807-as/LeetCode/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/aditya-1807-as/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/aditya-1807-as/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Counting Sort
 |  |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aditya-1807-as/LeetCode/tree/master/0207-course-schedule) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/aditya-1807-as/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
