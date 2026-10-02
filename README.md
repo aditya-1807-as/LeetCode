@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/aditya-1807-as/LeetCode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya-1807-as/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/aditya-1807-as/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-1807-as/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aditya-1807-as/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/aditya-1807-as/LeetCode/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/aditya-1807-as/LeetCode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya-1807-as/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/aditya-1807-as/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aditya-1807-as/LeetCode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aditya-1807-as/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/aditya-1807-as/LeetCode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya-1807-as/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/aditya-1807-as/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-1807-as/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aditya-1807-as/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aditya-1807-as/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aditya-1807-as/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/aditya-1807-as/LeetCode/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya-1807-as/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/aditya-1807-as/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aditya-1807-as/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aditya-1807-as/LeetCode/tree/master/0198-house-robber) |
@@ -405,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aditya-1807-as/LeetCode/tree/master/0238-product-of-array-except-self) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aditya-1807-as/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
