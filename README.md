@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-1807-as/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aditya-1807-as/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-1807-as/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2013-detect-squares](https://github.com/aditya-1807-as/LeetCode/tree/master/2013-detect-squares) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/aditya-1807-as/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/aditya-1807-as/LeetCode/tree/master/0383-ransom-note) |
+| [2013-detect-squares](https://github.com/aditya-1807-as/LeetCode/tree/master/2013-detect-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-1807-as/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya-1807-as/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2013-detect-squares](https://github.com/aditya-1807-as/LeetCode/tree/master/2013-detect-squares) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya-1807-as/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/aditya-1807-as/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aditya-1807-as/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aditya-1807-as/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2013-detect-squares](https://github.com/aditya-1807-as/LeetCode/tree/master/2013-detect-squares) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aditya-1807-as/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2013-detect-squares](https://github.com/aditya-1807-as/LeetCode/tree/master/2013-detect-squares) |
 ## Union-Find
 |  |
 | ------- |
