@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aditya-1807-as/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-1807-as/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/aditya-1807-as/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/aditya-1807-as/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/aditya-1807-as/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/aditya-1807-as/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aditya-1807-as/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/aditya-1807-as/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aditya-1807-as/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/aditya-1807-as/LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/aditya-1807-as/LeetCode/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/aditya-1807-as/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/aditya-1807-as/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-1807-as/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aditya-1807-as/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/aditya-1807-as/LeetCode/tree/master/0695-max-area-of-island) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/aditya-1807-as/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/aditya-1807-as/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aditya-1807-as/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aditya-1807-as/LeetCode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aditya-1807-as/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/aditya-1807-as/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0695-max-area-of-island](https://github.com/aditya-1807-as/LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/aditya-1807-as/LeetCode/tree/master/0994-rotting-oranges) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/aditya-1807-as/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aditya-1807-as/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-1807-as/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aditya-1807-as/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/aditya-1807-as/LeetCode/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aditya-1807-as/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Trie
 |  |
